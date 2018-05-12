@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36462
     wikipedia: http://en.wikipedia.org/wiki/Henry_Hallam
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33540#View-of-the-State-of-Europe-during-the-Middle-Ages-Vol.-3
 gutenberg_issued: '2010-08-26'
 gutenberg_type: Text
 identifiers:
